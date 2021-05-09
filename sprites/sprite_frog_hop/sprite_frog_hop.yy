@@ -53,7 +53,7 @@
     "spriteId": {"name":"sprite_frog_hop","path":"sprites/sprite_frog_hop/sprite_frog_hop.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 17.0,
+    "playbackSpeed": 20.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
