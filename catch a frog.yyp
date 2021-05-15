@@ -8,6 +8,7 @@
     {"id":{"name":"enemy_state_idle","path":"scripts/enemy_state_idle/enemy_state_idle.yy",},"order":0,},
     {"id":{"name":"sprite_tileset","path":"sprites/sprite_tileset/sprite_tileset.yy",},"order":1,},
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"order":1,},
+    {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":1,},
     {"id":{"name":"enemy_state_alert","path":"scripts/enemy_state_alert/enemy_state_alert.yy",},"order":1,},
     {"id":{"name":"sprite_enemy_idle","path":"sprites/sprite_enemy_idle/sprite_enemy_idle.yy",},"order":4,},
     {"id":{"name":"enemy_state_attack","path":"scripts/enemy_state_attack/enemy_state_attack.yy",},"order":3,},
@@ -48,8 +49,8 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Scripts/States.yy","order":1,"resourceVersion":"1.0","name":"States","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Scripts/States/Enemy.yy","order":1,"resourceVersion":"1.0","name":"Enemy","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts/States.yy","order":0,"resourceVersion":"1.0","name":"States","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts/States/Enemy.yy","order":0,"resourceVersion":"1.0","name":"Enemy","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

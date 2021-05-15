@@ -25,6 +25,6 @@ function enemy_state_wander(){
 		state = states.alert;
 	}
 	
-	sprite_index=spr_enemy;
+	sprite_index=sprite_enemy_idle;
 	image_xscale = sign(moveX);
 }
