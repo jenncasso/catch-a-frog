@@ -16,6 +16,7 @@ states_array[states.alert] = enemy_state_alert;
 
 counter = 0;
 spd = 1.5;
+hp = 1;
 
 my_dir = irandom_range(0, 359);
 moveX = lengthdir_x(spd, my_dir);

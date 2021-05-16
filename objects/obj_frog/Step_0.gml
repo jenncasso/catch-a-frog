@@ -1,9 +1,9 @@
 // step event happens every single frame of your game
 
 // get player input
-key_left = keyboard_check(vk_left); // checks to see if we are pressing the specified key (virtual keyboard left)
-key_right = keyboard_check(vk_right);
-key_jump = keyboard_check_pressed(vk_space); //pressed checks if it was pressed this frame
+key_left = keyboard_check(vk_left) || keyboard_check(ord("A")); // checks to see if we are pressing the specified key (virtual keyboard left)
+key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
+key_jump = keyboard_check_pressed(vk_up); //pressed checks if it was pressed this frame
 
 // calculate movement
 var move = key_right - key_left;

@@ -1,0 +1,1 @@
+if (place_meeting(x,y,obj_collision || obj_enemy)) instance_destroy();
